@@ -1,0 +1,28 @@
+{
+  "title": "laravel-modules-docs-zh_CN",
+  "language": "zh-hans",
+  "author": "译者：timeerror",
+  "description": "",
+  "plugins": [
+    "-lunr", 
+    "-search",
+    "-sharing",
+    "-livereload",
+    "summary",
+    "code",
+    "splitter",
+    "expandable-chapters",
+    "chapter-fold",
+    "lightbox",
+    "search-pro",
+    "hide-element"
+  ],
+  "pluginsConfig": {
+    "hide-element": {
+      "elements": [".gitbook-link", ".copyright"]
+    },
+    "code": {
+        "copyButtons": true
+    }
+  }
+}
