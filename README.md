@@ -2,7 +2,7 @@
 
 > laravel-modules 文档中文(简体)翻译，译者：timeerror 
 
-[nwidart/laravel-modules](https://github.com/nWidart/laravel-modules) 是一个 laravel 软件包，创建该软件包是为了便于模块化管理大型 laravel 应用。每个模块相当于一个 laravel 包，它含有视图views、控制器controllers和模型models。该软件包支持 laravel5.x。
+[nwidart/laravel-modules](https://github.com/nWidart/laravel-modules) 是一个 laravel 软件包，创建该软件包是为了便于模块化管理大型 laravel 应用。每个模块相当于一个 laravel 包，它含有视图views、控制器controllers和模型models。该软件包支持 laravel5.8.x。
 
 这个软件包是基于 [pingpong/modules](https://github.com/pingpong-labs/modules) 重新整理发布的版本，因其已不再维护更新。该软件包应用于[AsgardCMS](https://asgardcms.com/)。
 

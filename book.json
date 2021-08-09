@@ -2,7 +2,7 @@
   "title": "laravel-modules-docs-zh_CN",
   "language": "zh-hans",
   "author": "译者：timeerror",
-  "description": "",
+  "description": "laravel-modules文档",
   "plugins": [
     "-lunr", 
     "-search",
