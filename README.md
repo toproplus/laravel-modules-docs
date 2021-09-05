@@ -1,6 +1,6 @@
 # LARAVEL-MODULES  `v6`
 
-> [laravel-modules中文(简体)文档](https://github.com/beprotoplus/laravel-modules-docs-zh_CN) 
+> [laravel-modules中文(简体)文档](https://github.com/toproplus/laravel-modules-docs-zh_CN) 
 
 [nwidart/laravel-modules](https://github.com/nWidart/laravel-modules) 是一个 laravel 软件包，创建该软件包是为了便于模块化管理大型 laravel 应用。每个模块相当于一个 laravel 包，它含有视图views、控制器controllers和模型models。该软件包支持 laravel5.8.x。
 
